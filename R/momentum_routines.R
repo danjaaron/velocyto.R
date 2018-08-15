@@ -1290,7 +1290,7 @@ show.velocity.on.embedding.cor <- function(emb,vel,n=100,cell.colors=NULL, corr.
       
     }
   }
-  return(invisible(list(tp=tp,cc=cc,arrows4=x)))
+  return(invisible(list(tp=tp,cc=cc,arrows4=ars)))
 }
 
 
